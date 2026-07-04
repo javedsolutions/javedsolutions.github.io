@@ -86,15 +86,3 @@ p {
   background-color: #1c5980;
 }
 
-/* 8. Media Query for Responsive Mobile Screens */
-@media (max-width: 768px) {
-  .card-container {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .card {
-    width: 100%;
-    max-width: 400px;
-  }
-}
